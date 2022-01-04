@@ -5,5 +5,5 @@ CMD certificate importer
 
 ## Firefox
 * Enter `about:config` in the address bar and continue to the list of preferences.
-* Set the preference `security.enterprise_roots.enabled` to *true*.
+* Set the preference `security.enterprise_roots.enabled` to **true**.
 * Restart Firefox.
